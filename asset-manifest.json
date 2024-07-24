@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buoi4bt1/static/css/main.6633df4d.css",
+    "main.js": "/buoi4bt1/static/js/main.830dcaed.js",
+    "index.html": "/buoi4bt1/index.html",
+    "main.6633df4d.css.map": "/buoi4bt1/static/css/main.6633df4d.css.map",
+    "main.830dcaed.js.map": "/buoi4bt1/static/js/main.830dcaed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6633df4d.css",
+    "static/js/main.830dcaed.js"
+  ]
+}
