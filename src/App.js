@@ -5,6 +5,7 @@ import API1 from './components/hook/API1';
 import Hook2 from './components/hook/Hook2';
 import './style.css'
 import Students from './components/student/Students';
+import Weather from './components/weather/Weather';
 
 function App() {
   const [flag,setFlag]=useState(true)
@@ -15,7 +16,8 @@ function App() {
       }
       <button onClick={()=>setFlag(!flag)}>show</button>
       <API1/> */}
-      <Students/>
+      {/* <Students/> */}
+      <Weather/>
     </div>
   );
 }
